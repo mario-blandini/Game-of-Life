@@ -1,0 +1,28 @@
+# MVP: first version. Save as .github/ISSUE_TEMPLATE/question.yml. It will evolve with the project.
+name: Answer or ask a question
+description: Respond to a question in the multi-player spec, or ask a new one.
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking part. You don't need to be an expert, and naive questions are welcome.
+        **Please don't share personal details about yourself or anyone else.**
+  - type: input
+    id: which
+    attributes:
+      label: Which question is this about?
+      description: Paste it, or write "new question."
+  - type: textarea
+    id: response
+    attributes:
+      label: Your answer, or your question
+      description: Short is fine. A plain "this confused me" counts.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Would this change anything in the spec?
+      description: Optional. What would you add, cut, or reword?
