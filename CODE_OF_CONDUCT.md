@@ -22,4 +22,4 @@ Harassment, discrimination, or contact that targets or pressures young people.
 
 ## Reporting and enforcement
 
-If something is wrong, tell a maintainer: [add contact]. We'll respond as soon as we can. Comments may be removed, and people may be asked to leave, if they break these expectations. Details about who decides and how appeals work are not yet decided (see [GOVERNANCE.md](GOVERNANCE.md)).
+If something is wrong, tell a maintainer: mblandini@gmail.com until a volunteer maintainer is identified. We'll respond as soon as we can. Comments may be removed, and people may be asked to leave, if they break these expectations. Details about who decides and how appeals work are not yet decided (see [GOVERNANCE.md](GOVERNANCE.md)).
